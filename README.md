@@ -1,22 +1,20 @@
-<div align="center">
-  
-# Hello Dosto 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
-
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gunjan+Dhoke!;+A+DevOps+and+Engineer!" />
+</h1>
 
 ---
 
 ## 🚀 About Me
 
- I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+<h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
+ 
+I am motivated to continuously improve my skills and adapt to new challenges.
+I am a DevOps Engineer with a strong focus on AWS cloud computing.
+I have learned core AWS services and cloud computing fundamentals.
+I have knowledge of DevOps concepts such as deployment, monitoring, and automation.
+I am a quick learner with a positive and growth-oriented mindset.
 
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
-- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
+Always learning about **emerging technologies** and **best practices**
 
 ---
 
@@ -62,10 +60,10 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamlondhe1996/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhamlondhe96/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
+[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gunjandhoke.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gunjan-dhoke-a20100228)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://.instagram.com/96/)
+[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunjandhoke5@gmail.com)
 
 </div>
 
