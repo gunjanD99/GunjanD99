@@ -6,15 +6,15 @@
 
 ## 🚀 About Me
 
-<h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
+<h3>A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
  
-I am motivated to continuously improve my skills and adapt to new challenges.
-I am a DevOps Engineer with a strong focus on AWS cloud computing.
-I have learned core AWS services and cloud computing fundamentals.
-I have knowledge of DevOps concepts such as deployment, monitoring, and automation.
-I am a quick learner with a positive and growth-oriented mindset.
+- I am a DevOps Engineer with a strong focus on AWS cloud computing.
+-  Always learning about **emerging technologies** and **best practices**
+- I have learned core AWS services and cloud computing fundamentals.
+- I have knowledge of DevOps concepts such as deployment, monitoring, and automation.
+- I am a quick learner with a positive and growth-oriented mindset.
 
-Always learning about **emerging technologies** and **best practices**
+
 
 ---
 
